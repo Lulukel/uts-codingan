@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PRAKTIKAN-05"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-04 04:50:06 PM"/>
+        <attribute name="created" value="UFJBS1RJS0FOLTA1O0RFU0tUT1AtVVZHNUJFNzsyMDIzLTEwLTA0OzA0OjMxOjE5IFBNOzMxNjU="/>
+        <attribute name="edited" value="UFJBS1RJS0FOLTA1O0RFU0tUT1AtVVZHNUJFNzsyMDIzLTEwLTA0OzA0OjUwOjA2IFBNOzE7MzI3MA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nama" type="String" array="False" size=""/>
+            <declare name="umur" type="Integer" array="False" size=""/>
+            <assign variable="nama" expression="&quot;Lulu&quot;"/>
+            <assign variable="umur" expression="18"/>
+            <output expression="&quot;Hai &quot;&amp;nama&amp;&quot;, Umur aku adalah &quot;&amp;umur" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

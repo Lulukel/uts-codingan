@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PRAKTIKAN-05"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-11-01 05:24:39 PM"/>
+        <attribute name="created" value="UFJBS1RJS0FOLTA1O0RFU0tUT1AtVVZHNUJFNzsyMDIzLTExLTAxOzA1OjEwOjU2IFBNOzMxNjI="/>
+        <attribute name="edited" value="UFJBS1RJS0FOLTA1O0RFU0tUT1AtVVZHNUJFNzsyMDIzLTExLTAxOzA1OjI0OjM5IFBNOzE7MzI3Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <input variable="volume"/>
+            <assign variable="v" expression="2 * vr"/>
+            <output expression="2 * v * 22/7" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

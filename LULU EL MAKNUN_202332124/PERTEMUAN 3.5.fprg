@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PRAKTIKAN-05"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-04 05:36:12 PM"/>
+        <attribute name="created" value="UFJBS1RJS0FOLTA1O0RFU0tUT1AtVVZHNUJFNzsyMDIzLTEwLTA0OzA1OjE4OjMyIFBNOzMxNjY="/>
+        <attribute name="edited" value="UFJBS1RJS0FOLTA1O0RFU0tUT1AtVVZHNUJFNzsyMDIzLTEwLTA0OzA1OjM2OjEyIFBNOzM7MzI3NA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="phi, k, r" type="Real" array="False" size=""/>
+            <assign variable="Phi" expression="3.14"/>
+            <input variable="r"/>
+            <assign variable="K" expression="2 *phi*r"/>
+            <output expression="K" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

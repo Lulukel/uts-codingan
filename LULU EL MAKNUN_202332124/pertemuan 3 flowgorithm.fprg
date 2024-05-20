@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PRAKTIKAN-05"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-04 04:31:15 PM"/>
+        <attribute name="created" value="UFJBS1RJS0FOLTA1O0RFU0tUT1AtVVZHNUJFNzsyMDIzLTEwLTA0OzAzOjQwOjQ5IFBNOzMxNjc="/>
+        <attribute name="edited" value="UFJBS1RJS0FOLTA1O0RFU0tUT1AtVVZHNUJFNzsyMDIzLTEwLTA0OzA0OjMxOjE1IFBNOzE7MzI2OQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="bil1, bil2, hasil" type="Integer" array="False" size=""/>
+            <input variable="bil1"/>
+            <input variable="bil2"/>
+            <assign variable="hasil" expression="bil1 + bil2"/>
+            <output expression="hasil" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PRAKTIKAN-05"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-11-01 05:10:45 PM"/>
+        <attribute name="created" value="UFJBS1RJS0FOLTA1O0RFU0tUT1AtVVZHNUJFNzsyMDIzLTExLTAxOzA0OjU2OjUwIFBNOzMxNjU="/>
+        <attribute name="edited" value="UFJBS1RJS0FOLTA1O0RFU0tUT1AtVVZHNUJFNzsyMDIzLTExLTAxOzA1OjEwOjQ1IFBNOzE7MzI2OA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <input variable="pemesanan"/>
+            <assign variable="lebih" expression="50.000"/>
+            <assign variable="kurang" expression="50.000"/>
+            <call expression="50000 * 20%"/>
+        </body>
+    </function>
+</flowgorithm>
